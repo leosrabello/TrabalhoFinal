@@ -1,0 +1,221 @@
+id,cidade,bairro,latitude,longitude,tipo_piscina,uso,volume_m3,area_m2,profundidade_media_m,tem_cobertura,exposicao_sol,banhistas_semana,frequencia_manutencao,consumo_cloro_kg_mes,custo_manutencao_mensal
+1,Colombo,Água Verde,-25.29855,-49.20543,Fibra,Residencial,97.2,57.1,1.74,Não,Baixa,8,Quinzenal,6.95,499.96
+2,Curitiba,Portão,-25.40834,-49.2854,Fibra,Residencial,37.2,17.2,2.24,Não,Alta,12,Mensal,4.33,389.39
+3,Colombo,Jardim Social,-25.28124,-49.23468,Fibra,Residencial,25.2,13.4,2.15,Não,Baixa,13,Mensal,3.32,300.93
+4,Pinhais,Cristo Rei,-25.41825,-49.2134,Alvenaria,Hotel,35.6,25.4,1.21,Não,Média,88,Mensal,13.12,707.46
+5,Curitiba,Centro,-25.43149,-49.28639,Fibra,Condomínio,102.3,48.8,2.33,Não,Média,52,Quinzenal,12.51,715.24
+6,Araucária,Cabral,-25.60692,-49.40144,Fibra,Residencial,45.0,25.9,1.61,Não,Média,14,Semanal,4.41,319.72
+7,Colombo,Cristo Rei,-25.29648,-49.22778,Vinil,Residencial,84.8,59.4,1.73,Não,Média,15,Semanal,8.99,519.12
+8,Colombo,Boqueirão,-25.28715,-49.21743,Alvenaria,Residencial,103.9,72.3,1.76,Não,Média,12,Quinzenal,8.02,679.92
+9,Curitiba,Cabral,-25.42487,-49.26606,Alvenaria,Residencial,16.7,8.7,1.81,Sim,Alta,7,Quinzenal,2.47,300.8
+10,São José dos Pinhais,Centro,-25.55169,-49.17959,Fibra,Condomínio,93.7,69.8,1.43,Não,Alta,48,Quinzenal,12.16,715.52
+11,Curitiba,Centro,-25.42659,-49.28016,Vinil,Academia,42.5,27.3,1.47,Não,Média,84,Quinzenal,13.1,720.26
+12,Araucária,Centro,-25.58844,-49.43954,Fibra,Academia,32.3,22.7,1.7,Sim,Baixa,78,Quinzenal,11.93,587.26
+13,Pinhais,Batel,-25.39465,-49.17066,Fibra,Hotel,85.2,50.2,1.44,Sim,Alta,104,Mensal,19.42,823.98
+14,Colombo,Jardim Social,-25.25446,-49.23063,Vinil,Hotel,109.9,65.7,1.52,Não,Alta,80,Semanal,17.8,998.91
+15,Curitiba,Cabral,-25.44546,-49.25101,Alvenaria,Hotel,41.0,23.2,1.54,Sim,Média,128,Semanal,18.23,776.82
+16,Curitiba,Bigorrilho,-25.43415,-49.26563,Alvenaria,Residencial,71.7,46.2,1.82,Não,Média,12,Mensal,6.45,489.44
+17,São José dos Pinhais,Água Verde,-25.55927,-49.20862,Alvenaria,Residencial,40.5,30.5,1.43,Não,Média,4,Mensal,2.88,425.55
+18,Curitiba,Jardim Social,-25.44021,-49.26632,Alvenaria,Residencial,70.1,37.8,1.96,Não,Baixa,8,Mensal,4.79,461.85
+19,Colombo,Batel,-25.28569,-49.18498,Fibra,Condomínio,77.6,47.4,1.61,Sim,Média,76,Mensal,14.03,656.84
+20,Pinhais,Jardim Social,-25.42088,-49.15046,Fibra,Residencial,76.4,40.5,2.05,Não,Média,9,Mensal,5.45,499.97
+21,Colombo,Centro,-25.30658,-49.22261,Fibra,Academia,77.8,55.7,1.69,Não,Alta,60,Semanal,13.71,767.51
+22,Curitiba,Centro,-25.44148,-49.2701,Fibra,Condomínio,23.1,17.6,1.39,Não,Alta,44,Quinzenal,8.28,523.84
+23,Araucária,Centro,-25.63595,-49.38848,Vinil,Residencial,85.7,56.3,1.69,Sim,Alta,15,Semanal,9.03,586.17
+24,Colombo,Bigorrilho,-25.29525,-49.24091,Fibra,Residencial,83.6,48.9,1.79,Não,Média,11,Quinzenal,6.86,410.16
+25,Colombo,Água Verde,-25.31325,-49.21734,Alvenaria,Residencial,84.4,51.0,1.88,Não,Média,12,Mensal,7.47,439.67
+26,Curitiba,Santa Felicidade,-25.43899,-49.27382,Alvenaria,Residencial,16.3,8.0,2.25,Sim,Alta,9,Semanal,2.5,327.13
+27,São José dos Pinhais,Santa Felicidade,-25.54754,-49.19972,Alvenaria,Academia,58.0,35.4,1.56,Sim,Alta,72,Quinzenal,14.14,740.65
+28,Curitiba,Bigorrilho,-25.43029,-49.28997,Fibra,Condomínio,53.8,30.3,1.86,Sim,Média,64,Semanal,11.81,614.65
+29,Curitiba,Portão,-25.46355,-49.30509,Fibra,Condomínio,17.7,9.7,1.95,Sim,Alta,76,Semanal,12.06,540.52
+30,Pinhais,Centro,-25.47434,-49.23346,Vinil,Residencial,32.9,24.9,1.3,Sim,Baixa,13,Semanal,4.06,428.79
+31,Pinhais,Portão,-25.40242,-49.21435,Alvenaria,Residencial,57.4,32.5,1.59,Não,Alta,11,Semanal,5.37,493.34
+32,Araucária,Água Verde,-25.61875,-49.41917,Alvenaria,Residencial,91.2,56.6,1.69,Não,Baixa,7,Mensal,5.41,516.5
+33,Curitiba,Bigorrilho,-25.45034,-49.27916,Vinil,Condomínio,34.6,20.6,1.62,Não,Baixa,64,Quinzenal,9.33,530.08
+34,Curitiba,Bigorrilho,-25.39166,-49.23456,Alvenaria,Condomínio,100.9,72.6,1.17,Não,Média,36,Mensal,11.21,701.9
+35,São José dos Pinhais,Centro,-25.4719,-49.18388,Fibra,Residencial,69.1,34.5,1.99,Sim,Baixa,9,Quinzenal,5.94,403.78
+36,Curitiba,Bigorrilho,-25.45183,-49.29254,Alvenaria,Hotel,93.2,43.4,1.85,Não,Baixa,104,Semanal,17.25,877.0
+37,Curitiba,Centro,-25.43576,-49.26635,Fibra,Residencial,60.9,46.1,1.18,Não,Baixa,17,Semanal,5.11,519.95
+38,São José dos Pinhais,Cabral,-25.52317,-49.21414,Alvenaria,Academia,63.9,34.7,2.24,Não,Média,78,Mensal,13.26,684.99
+39,Curitiba,Portão,-25.39383,-49.27899,Vinil,Residencial,77.4,38.9,2.05,Não,Alta,13,Semanal,7.19,677.76
+40,Pinhais,Portão,-25.46474,-49.18829,Alvenaria,Residencial,111.9,71.9,1.44,Não,Baixa,13,Mensal,7.46,595.95
+41,Curitiba,Santa Felicidade,-25.43331,-49.26092,Fibra,Academia,63.1,31.4,1.68,Sim,Média,66,Semanal,11.65,746.17
+42,Colombo,Portão,-25.27645,-49.23079,Fibra,Residencial,67.2,36.0,1.9,Não,Alta,12,Quinzenal,6.18,487.47
+43,Pinhais,Bigorrilho,-25.4363,-49.17072,Vinil,Residencial,75.4,35.3,2.55,Não,Baixa,11,Mensal,5.9,445.87
+44,Curitiba,Jardim Social,-25.43592,-49.29614,Fibra,Residencial,90.6,41.5,2.13,Não,Baixa,9,Semanal,5.81,534.54
+45,Colombo,Cristo Rei,-25.29468,-49.22387,Fibra,Residencial,16.0,12.0,1.57,Sim,Alta,8,Semanal,3.35,330.36
+46,Colombo,Santa Felicidade,-25.3195,-49.17205,Fibra,Condomínio,65.8,38.7,1.54,Não,Alta,40,Mensal,10.58,621.02
+47,Curitiba,Boqueirão,-25.43316,-49.26884,Fibra,Academia,61.9,34.5,1.79,Sim,Média,72,Semanal,12.37,676.68
+48,Curitiba,Santa Felicidade,-25.43373,-49.24464,Fibra,Academia,111.2,77.6,1.32,Não,Alta,120,Quinzenal,22.15,948.2
+49,Pinhais,Bigorrilho,-25.44036,-49.19017,Alvenaria,Residencial,63.3,39.5,1.4,Sim,Baixa,14,Quinzenal,6.39,403.95
+50,Curitiba,Boqueirão,-25.43951,-49.26168,Fibra,Residencial,60.5,27.6,2.08,Não,Média,9,Semanal,4.96,569.54
+51,Curitiba,Santa Felicidade,-25.41897,-49.27444,Fibra,Residencial,115.8,88.1,1.26,Não,Alta,14,Mensal,9.48,628.51
+52,Curitiba,Santa Felicidade,-25.40815,-49.27671,Fibra,Residencial,58.5,34.3,1.55,Sim,Média,12,Mensal,6.45,425.96
+53,Colombo,Portão,-25.28889,-49.23959,Fibra,Residencial,28.3,13.7,1.82,Sim,Alta,11,Quinzenal,4.33,314.43
+54,Pinhais,Boqueirão,-25.43796,-49.18339,Fibra,Hotel,32.3,20.3,1.39,Não,Média,56,Mensal,9.82,585.62
+55,Pinhais,Cabral,-25.44394,-49.20903,Alvenaria,Academia,18.7,10.8,2.13,Sim,Alta,78,Semanal,12.24,586.2
+56,Colombo,Santa Felicidade,-25.292,-49.21069,Fibra,Condomínio,8.1,3.7,2.14,Não,Média,64,Semanal,8.46,462.27
+57,São José dos Pinhais,Cristo Rei,-25.54443,-49.18429,Fibra,Residencial,56.4,32.7,1.95,Não,Média,13,Quinzenal,5.73,426.42
+58,São José dos Pinhais,Cristo Rei,-25.52367,-49.19867,Fibra,Residencial,94.2,66.4,1.24,Não,Baixa,16,Mensal,7.76,562.34
+59,Curitiba,Santa Felicidade,-25.43035,-49.27902,Fibra,Residencial,90.1,66.9,1.27,Não,Baixa,18,Semanal,8.18,575.83
+60,Curitiba,Jardim Social,-25.38654,-49.26422,Fibra,Residencial,11.6,5.4,2.22,Não,Alta,16,Semanal,3.49,405.15
+61,Pinhais,Batel,-25.41353,-49.19817,Fibra,Residencial,71.8,46.6,1.76,Sim,Baixa,8,Quinzenal,5.59,436.53
+62,São José dos Pinhais,Jardim Social,-25.52228,-49.18729,Vinil,Residencial,25.3,14.4,1.88,Não,Baixa,11,Mensal,2.8,336.85
+63,São José dos Pinhais,Água Verde,-25.54526,-49.24263,Fibra,Residencial,113.4,82.1,1.28,Sim,Baixa,8,Semanal,8.49,604.14
+64,Colombo,Boqueirão,-25.31425,-49.23071,Alvenaria,Hotel,26.7,15.9,1.9,Sim,Baixa,88,Quinzenal,11.85,704.66
+65,Pinhais,Água Verde,-25.42118,-49.23182,Fibra,Residencial,78.2,36.6,2.55,Sim,Alta,17,Quinzenal,8.84,484.68
+66,São José dos Pinhais,Santa Felicidade,-25.52475,-49.2359,Fibra,Hotel,44.5,25.4,1.52,Não,Média,56,Quinzenal,10.17,617.29
+67,São José dos Pinhais,Portão,-25.5204,-49.17872,Fibra,Residencial,79.9,36.8,1.96,Sim,Alta,18,Semanal,7.66,512.85
+68,Curitiba,Bigorrilho,-25.46329,-49.2554,Alvenaria,Condomínio,54.2,35.4,1.74,Não,Baixa,44,Semanal,9.26,725.74
+69,Curitiba,Centro,-25.40985,-49.28769,Alvenaria,Residencial,93.1,53.1,1.91,Não,Média,20,Quinzenal,9.83,627.63
+70,Curitiba,Cristo Rei,-25.41931,-49.30335,Fibra,Residencial,33.8,16.3,1.74,Não,Média,14,Quinzenal,4.81,326.74
+71,Curitiba,Jardim Social,-25.45061,-49.33259,Fibra,Residencial,109.4,64.2,1.57,Não,Média,15,Mensal,9.72,625.86
+72,Curitiba,Boqueirão,-25.43783,-49.28417,Fibra,Residencial,64.0,41.2,1.49,Não,Alta,8,Quinzenal,6.05,501.11
+73,Colombo,Boqueirão,-25.28673,-49.17559,Fibra,Academia,92.7,44.8,2.24,Não,Alta,54,Quinzenal,12.25,887.9
+74,Curitiba,Cabral,-25.42735,-49.2646,Alvenaria,Residencial,103.2,62.5,1.8,Sim,Alta,10,Mensal,7.79,531.29
+75,Curitiba,Batel,-25.43424,-49.28449,Fibra,Condomínio,119.9,67.4,2.18,Não,Baixa,64,Quinzenal,15.03,785.84
+76,Curitiba,Bigorrilho,-25.43047,-49.264,Fibra,Residencial,33.1,15.2,2.0,Não,Baixa,15,Quinzenal,3.43,295.35
+77,Curitiba,Água Verde,-25.43344,-49.30452,Vinil,Residencial,40.1,27.3,1.8,Não,Média,12,Mensal,3.8,270.8
+78,Pinhais,Cabral,-25.44195,-49.19795,Fibra,Residencial,36.0,22.9,1.96,Não,Média,21,Semanal,5.14,448.61
+79,São José dos Pinhais,Portão,-25.50057,-49.20401,Fibra,Residencial,37.4,28.2,1.21,Não,Alta,18,Quinzenal,5.97,381.68
+80,Colombo,Bigorrilho,-25.34333,-49.22572,Alvenaria,Hotel,73.2,44.3,1.4,Não,Média,88,Mensal,14.58,826.39
+81,Pinhais,Bigorrilho,-25.44974,-49.17618,Fibra,Academia,119.3,80.6,1.34,Não,Média,60,Semanal,14.59,1018.94
+82,Curitiba,Água Verde,-25.42487,-49.26641,Fibra,Condomínio,118.9,62.2,1.93,Não,Alta,36,Quinzenal,13.56,805.22
+83,Colombo,Cabral,-25.28608,-49.21063,Fibra,Residencial,67.0,45.8,1.47,Não,Alta,12,Semanal,6.01,522.05
+84,Curitiba,Santa Felicidade,-25.43584,-49.28707,Vinil,Residencial,79.6,41.7,1.96,Não,Baixa,13,Semanal,6.86,548.95
+85,Curitiba,Água Verde,-25.46353,-49.25534,Fibra,Hotel,104.3,67.9,1.65,Não,Baixa,88,Quinzenal,16.53,910.14
+86,Curitiba,Boqueirão,-25.42184,-49.24072,Fibra,Residencial,112.5,69.5,1.6,Sim,Média,9,Semanal,8.96,606.88
+87,Pinhais,Jardim Social,-25.41045,-49.2114,Fibra,Residencial,30.8,19.1,1.66,Sim,Média,8,Mensal,4.27,237.16
+88,São José dos Pinhais,Centro,-25.56068,-49.22375,Fibra,Residencial,67.2,34.5,1.87,Não,Média,15,Mensal,6.78,470.49
+89,Curitiba,Jardim Social,-25.41112,-49.24658,Alvenaria,Condomínio,101.3,58.9,1.48,Não,Média,64,Mensal,14.8,781.5
+90,São José dos Pinhais,Cristo Rei,-25.53657,-49.20983,Fibra,Condomínio,42.0,25.8,1.36,Não,Alta,60,Semanal,10.23,547.21
+91,Curitiba,Boqueirão,-25.42963,-49.24522,Alvenaria,Condomínio,57.3,27.7,2.49,Não,Alta,44,Semanal,10.59,654.33
+92,Pinhais,Cabral,-25.46606,-49.20085,Alvenaria,Condomínio,118.4,65.2,1.9,Sim,Média,60,Semanal,14.59,931.45
+93,Curitiba,Portão,-25.43509,-49.2442,Alvenaria,Residencial,118.3,79.3,1.71,Sim,Média,18,Semanal,10.21,716.73
+94,Curitiba,Batel,-25.4024,-49.27067,Fibra,Hotel,109.5,51.9,2.24,Sim,Média,104,Mensal,20.0,842.56
+95,Curitiba,Boqueirão,-25.41675,-49.26814,Vinil,Residencial,97.4,60.6,1.76,Não,Média,9,Quinzenal,7.72,569.88
+96,Pinhais,Cristo Rei,-25.41035,-49.16071,Alvenaria,Condomínio,38.1,28.5,1.54,Sim,Média,44,Semanal,8.57,571.68
+97,Curitiba,Água Verde,-25.40485,-49.28054,Fibra,Residencial,43.9,25.2,1.58,Não,Média,9,Mensal,3.71,368.88
+98,Curitiba,Bigorrilho,-25.41962,-49.29212,Alvenaria,Hotel,69.3,49.1,1.41,Não,Média,48,Quinzenal,9.61,710.82
+99,Curitiba,Bigorrilho,-25.39352,-49.28227,Vinil,Residencial,70.8,46.7,1.3,Não,Baixa,12,Semanal,6.21,478.56
+100,Araucária,Bigorrilho,-25.58422,-49.40095,Fibra,Residencial,64.6,32.8,2.42,Sim,Baixa,11,Semanal,5.61,450.22
+101,Araucária,Portão,-25.57644,-49.44132,Vinil,Residencial,79.3,55.9,1.72,Sim,Baixa,12,Quinzenal,7.19,457.96
+102,Pinhais,Portão,-25.45093,-49.17925,Fibra,Residencial,53.7,26.5,2.11,Sim,Alta,12,Mensal,6.14,405.22
+103,Curitiba,Santa Felicidade,-25.42707,-49.28408,Alvenaria,Residencial,91.9,42.9,2.57,Sim,Média,10,Semanal,6.67,549.47
+104,Araucária,Cristo Rei,-25.60695,-49.38704,Vinil,Condomínio,45.4,24.6,2.04,Sim,Baixa,64,Mensal,11.28,509.99
+105,Colombo,Jardim Social,-25.27221,-49.27189,Fibra,Residencial,45.0,23.2,1.62,Não,Alta,13,Mensal,5.24,426.76
+106,Pinhais,Santa Felicidade,-25.46857,-49.20773,Alvenaria,Hotel,22.2,11.4,2.2,Não,Média,120,Mensal,16.44,676.17
+107,Curitiba,Jardim Social,-25.41275,-49.30703,Fibra,Residencial,29.1,13.3,2.49,Não,Média,14,Semanal,3.54,379.21
+108,Curitiba,Boqueirão,-25.43221,-49.28982,Alvenaria,Condomínio,103.3,64.3,1.56,Não,Alta,44,Semanal,13.66,860.51
+109,Curitiba,Portão,-25.40498,-49.26835,Alvenaria,Residencial,58.0,40.1,1.45,Sim,Baixa,12,Mensal,4.69,344.01
+110,Araucária,Centro,-25.57798,-49.41358,Fibra,Condomínio,33.5,19.0,1.71,Não,Baixa,48,Semanal,7.57,521.97
+111,São José dos Pinhais,Cabral,-25.49359,-49.21107,Fibra,Condomínio,93.0,52.2,1.87,Não,Média,36,Quinzenal,10.46,744.09
+112,Curitiba,Cabral,-25.41378,-49.27648,Fibra,Residencial,70.0,47.9,1.29,Não,Baixa,9,Mensal,4.62,401.04
+113,Curitiba,Jardim Social,-25.45984,-49.26923,Fibra,Hotel,10.4,5.6,2.17,Não,Média,72,Semanal,9.96,562.21
+114,São José dos Pinhais,Bigorrilho,-25.53134,-49.22617,Fibra,Residencial,43.4,33.1,1.35,Sim,Baixa,13,Mensal,5.43,267.81
+115,Curitiba,Centro,-25.45184,-49.25916,Fibra,Residencial,27.8,13.0,1.99,Sim,Baixa,15,Mensal,3.47,243.33
+116,Colombo,Boqueirão,-25.30237,-49.21075,Fibra,Condomínio,81.5,53.0,1.34,Sim,Baixa,44,Quinzenal,10.71,593.11
+117,Colombo,Bigorrilho,-25.26178,-49.2163,Fibra,Academia,38.8,29.1,1.41,Não,Média,42,Quinzenal,6.22,590.61
+118,Pinhais,Santa Felicidade,-25.43225,-49.18087,Alvenaria,Residencial,15.3,10.9,1.37,Não,Baixa,17,Mensal,2.93,284.86
+119,Curitiba,Santa Felicidade,-25.44238,-49.26737,Alvenaria,Residencial,14.2,9.4,1.83,Não,Baixa,10,Quinzenal,1.86,317.26
+120,Pinhais,Cristo Rei,-25.46527,-49.1513,Alvenaria,Academia,73.2,47.3,1.78,Não,Alta,60,Quinzenal,12.3,845.14
+121,São José dos Pinhais,Cabral,-25.52934,-49.20774,Fibra,Condomínio,10.4,7.8,1.61,Não,Média,48,Mensal,7.53,428.83
+122,Pinhais,Cabral,-25.46933,-49.19814,Vinil,Hotel,103.1,66.5,1.42,Sim,Média,96,Quinzenal,18.31,853.68
+123,Curitiba,Santa Felicidade,-25.44182,-49.28837,Alvenaria,Residencial,25.4,17.2,1.61,Sim,Baixa,13,Semanal,3.28,308.36
+124,Curitiba,Água Verde,-25.42216,-49.29395,Fibra,Condomínio,75.9,46.3,1.5,Não,Média,64,Semanal,12.51,714.42
+125,Curitiba,Boqueirão,-25.40529,-49.29819,Fibra,Residencial,57.8,35.1,1.99,Não,Média,15,Semanal,4.62,457.25
+126,São José dos Pinhais,Jardim Social,-25.51782,-49.22378,Alvenaria,Hotel,57.6,35.9,1.4,Não,Média,120,Quinzenal,17.68,765.07
+127,Curitiba,Cabral,-25.47423,-49.27471,Fibra,Residencial,16.0,10.0,1.41,Sim,Baixa,8,Quinzenal,2.8,197.93
+128,Curitiba,Bigorrilho,-25.42231,-49.26661,Alvenaria,Condomínio,97.9,70.9,1.65,Não,Alta,56,Quinzenal,12.53,790.87
+129,Curitiba,Batel,-25.42696,-49.27228,Vinil,Residencial,108.0,81.7,1.63,Sim,Alta,14,Quinzenal,9.2,597.93
+130,São José dos Pinhais,Jardim Social,-25.52172,-49.22131,Fibra,Condomínio,9.2,6.2,1.8,Não,Baixa,48,Mensal,6.07,347.17
+131,Curitiba,Água Verde,-25.39608,-49.2553,Fibra,Condomínio,28.0,14.1,1.74,Sim,Baixa,72,Mensal,11.67,471.54
+132,Araucária,Jardim Social,-25.63426,-49.39521,Vinil,Residencial,109.2,49.8,2.45,Sim,Baixa,10,Semanal,8.51,622.17
+133,São José dos Pinhais,Santa Felicidade,-25.54182,-49.20919,Alvenaria,Academia,69.5,32.5,2.1,Não,Média,114,Quinzenal,18.02,903.92
+134,Curitiba,Jardim Social,-25.41658,-49.28636,Fibra,Residencial,24.8,14.1,1.81,Não,Baixa,10,Quinzenal,3.47,285.62
+135,São José dos Pinhais,Cristo Rei,-25.56163,-49.19503,Vinil,Condomínio,30.7,17.3,1.59,Não,Alta,48,Quinzenal,8.36,533.45
+136,Curitiba,Bigorrilho,-25.39888,-49.26954,Vinil,Residencial,81.9,51.7,1.59,Não,Alta,7,Semanal,7.56,605.22
+137,Araucária,Jardim Social,-25.58563,-49.43896,Alvenaria,Residencial,89.2,44.7,1.99,Não,Alta,7,Mensal,6.58,580.86
+138,São José dos Pinhais,Cabral,-25.51307,-49.20736,Alvenaria,Residencial,75.1,37.8,1.66,Não,Média,10,Mensal,6.85,507.26
+139,Colombo,Cristo Rei,-25.30342,-49.21876,Fibra,Residencial,114.8,55.7,2.4,Não,Alta,14,Quinzenal,9.52,741.67
+140,Curitiba,Batel,-25.41212,-49.29129,Fibra,Residencial,63.3,30.1,1.86,Não,Baixa,11,Mensal,4.5,350.94
+141,São José dos Pinhais,Centro,-25.50863,-49.2022,Alvenaria,Condomínio,41.6,24.6,2.06,Sim,Média,24,Mensal,6.05,513.76
+142,São José dos Pinhais,Boqueirão,-25.52534,-49.2351,Fibra,Condomínio,61.5,30.9,2.01,Não,Média,52,Quinzenal,10.6,610.96
+143,Araucária,Cristo Rei,-25.58831,-49.38328,Alvenaria,Condomínio,48.3,23.8,1.76,Sim,Alta,40,Quinzenal,8.9,524.21
+144,São José dos Pinhais,Bigorrilho,-25.52459,-49.18104,Alvenaria,Residencial,33.1,21.0,1.48,Não,Média,12,Quinzenal,4.26,406.08
+145,São José dos Pinhais,Boqueirão,-25.54727,-49.21105,Fibra,Residencial,13.1,6.1,2.0,Sim,Alta,13,Mensal,3.5,292.15
+146,Curitiba,Boqueirão,-25.43135,-49.26603,Alvenaria,Residencial,47.4,34.2,1.53,Não,Baixa,9,Semanal,4.3,412.41
+147,Curitiba,Cabral,-25.43145,-49.3215,Fibra,Condomínio,87.7,40.0,2.27,Não,Alta,56,Quinzenal,13.45,733.79
+148,São José dos Pinhais,Cristo Rei,-25.52233,-49.22913,Vinil,Academia,10.1,5.1,2.09,Não,Média,48,Mensal,6.83,398.94
+149,Curitiba,Cristo Rei,-25.4084,-49.27918,Fibra,Residencial,57.2,41.3,1.37,Não,Média,3,Semanal,4.03,408.45
+150,Curitiba,Batel,-25.44957,-49.29474,Alvenaria,Condomínio,80.1,42.4,1.92,Sim,Alta,52,Mensal,12.64,724.67
+151,Colombo,Boqueirão,-25.2945,-49.20971,Alvenaria,Residencial,76.4,57.4,1.43,Não,Média,13,Quinzenal,6.97,509.34
+152,Colombo,Portão,-25.26237,-49.18405,Fibra,Residencial,95.0,47.7,2.16,Não,Média,18,Mensal,9.6,484.75
+153,Curitiba,Bigorrilho,-25.44327,-49.29683,Alvenaria,Residencial,98.8,48.9,2.24,Não,Média,14,Mensal,8.67,586.78
+154,São José dos Pinhais,Boqueirão,-25.54645,-49.22275,Alvenaria,Residencial,87.7,47.6,1.95,Não,Baixa,15,Semanal,7.65,574.05
+155,Curitiba,Jardim Social,-25.42435,-49.26859,Alvenaria,Condomínio,19.5,9.4,2.41,Não,Média,36,Mensal,7.84,427.62
+156,Pinhais,Santa Felicidade,-25.42811,-49.15978,Alvenaria,Academia,61.2,44.1,1.21,Não,Baixa,90,Semanal,14.78,801.77
+157,Curitiba,Cabral,-25.42817,-49.29775,Vinil,Residencial,75.6,48.8,1.49,Não,Baixa,11,Quinzenal,6.15,431.33
+158,Pinhais,Batel,-25.41842,-49.18702,Fibra,Residencial,35.5,21.2,1.96,Sim,Alta,13,Quinzenal,5.61,313.64
+159,Pinhais,Jardim Social,-25.42786,-49.15557,Alvenaria,Condomínio,12.8,9.6,1.24,Não,Média,36,Mensal,4.98,429.16
+160,Colombo,Batel,-25.27516,-49.25704,Fibra,Hotel,33.0,19.4,1.49,Não,Média,88,Semanal,12.77,734.88
+161,Curitiba,Portão,-25.41732,-49.29892,Alvenaria,Condomínio,58.9,38.3,1.72,Não,Média,36,Semanal,8.05,713.88
+162,Araucária,Cristo Rei,-25.54645,-49.41847,Alvenaria,Residencial,54.4,32.9,1.92,Não,Média,13,Quinzenal,5.71,424.4
+163,Curitiba,Jardim Social,-25.4325,-49.28371,Fibra,Condomínio,27.8,16.5,2.1,Não,Média,44,Quinzenal,7.34,512.6
+164,Curitiba,Santa Felicidade,-25.46847,-49.25705,Fibra,Residencial,100.3,48.0,2.55,Não,Alta,11,Quinzenal,8.62,572.88
+165,São José dos Pinhais,Santa Felicidade,-25.49791,-49.20117,Vinil,Hotel,111.7,72.4,1.4,Não,Alta,80,Semanal,18.15,1090.0
+166,Curitiba,Centro,-25.43755,-49.3088,Fibra,Residencial,30.6,14.5,1.77,Não,Média,19,Semanal,5.13,339.55
+167,Colombo,Jardim Social,-25.28984,-49.21369,Alvenaria,Condomínio,112.1,66.6,2.06,Não,Média,44,Mensal,12.41,833.29
+168,Colombo,Centro,-25.26581,-49.23555,Fibra,Residencial,10.0,6.3,1.44,Sim,Média,11,Semanal,2.32,246.94
+169,Curitiba,Centro,-25.46045,-49.24781,Vinil,Residencial,111.6,63.7,2.11,Não,Média,12,Quinzenal,9.32,710.53
+170,Araucária,Santa Felicidade,-25.61803,-49.42255,Fibra,Academia,114.6,68.4,1.62,Sim,Média,42,Mensal,13.18,800.15
+171,Curitiba,Centro,-25.46043,-49.28603,Fibra,Condomínio,9.3,6.1,1.38,Sim,Média,28,Semanal,3.75,370.51
+172,São José dos Pinhais,Batel,-25.54588,-49.19518,Vinil,Residencial,93.5,53.4,1.86,Não,Média,11,Quinzenal,7.24,544.56
+173,Curitiba,Cabral,-25.41961,-49.25804,Vinil,Hotel,116.7,81.2,1.79,Não,Média,72,Semanal,16.24,1021.1
+174,Araucária,Bigorrilho,-25.58252,-49.40104,Fibra,Academia,109.5,67.7,1.56,Não,Média,54,Mensal,14.02,845.16
+175,Curitiba,Água Verde,-25.42287,-49.30701,Fibra,Residencial,116.7,64.5,1.51,Sim,Média,11,Quinzenal,9.67,593.82
+176,Curitiba,Bigorrilho,-25.45666,-49.26254,Alvenaria,Residencial,69.6,41.6,1.85,Sim,Baixa,6,Mensal,5.37,412.59
+177,Curitiba,Cabral,-25.4746,-49.29399,Vinil,Residencial,16.8,8.2,2.34,Não,Baixa,10,Semanal,2.56,351.13
+178,Araucária,Água Verde,-25.59191,-49.40529,Fibra,Condomínio,103.2,67.4,1.8,Sim,Alta,36,Quinzenal,12.05,739.67
+179,Colombo,Bigorrilho,-25.30144,-49.25247,Alvenaria,Residencial,76.7,35.3,2.13,Sim,Média,19,Mensal,7.28,424.51
+180,Pinhais,Boqueirão,-25.43581,-49.18307,Alvenaria,Residencial,76.9,38.3,1.93,Sim,Baixa,7,Semanal,5.6,485.03
+181,Colombo,Cristo Rei,-25.27796,-49.24013,Alvenaria,Academia,54.7,25.2,1.94,Não,Média,54,Semanal,10.27,740.65
+182,Colombo,Batel,-25.28924,-49.24965,Alvenaria,Hotel,72.0,35.0,1.87,Não,Alta,88,Semanal,16.06,956.22
+183,São José dos Pinhais,Água Verde,-25.5148,-49.19172,Alvenaria,Academia,25.2,17.6,1.24,Não,Média,108,Mensal,13.84,677.44
+184,Curitiba,Portão,-25.42382,-49.26847,Fibra,Hotel,90.9,51.2,1.58,Não,Alta,104,Quinzenal,18.9,934.13
+185,Colombo,Portão,-25.2814,-49.23628,Vinil,Condomínio,16.4,11.3,1.61,Sim,Alta,32,Quinzenal,6.36,457.29
+186,Pinhais,Cristo Rei,-25.45909,-49.16298,Vinil,Condomínio,89.7,44.0,1.99,Não,Média,56,Quinzenal,12.43,756.1
+187,Curitiba,Bigorrilho,-25.43199,-49.28211,Alvenaria,Condomínio,103.1,56.5,1.99,Não,Média,32,Quinzenal,10.38,737.58
+188,Curitiba,Boqueirão,-25.42446,-49.27266,Fibra,Residencial,60.9,39.6,1.65,Sim,Baixa,16,Quinzenal,6.17,376.22
+189,Pinhais,Boqueirão,-25.42859,-49.18662,Fibra,Residencial,65.1,30.5,1.82,Sim,Alta,14,Quinzenal,6.44,421.68
+190,Curitiba,Cristo Rei,-25.43627,-49.28569,Alvenaria,Residencial,43.0,30.6,1.31,Sim,Média,13,Quinzenal,3.96,331.15
+191,Araucária,Santa Felicidade,-25.58258,-49.40058,Fibra,Condomínio,116.6,64.5,1.52,Sim,Alta,52,Semanal,14.53,863.84
+192,Curitiba,Água Verde,-25.43372,-49.28397,Vinil,Residencial,90.1,46.2,2.02,Não,Média,14,Mensal,8.04,534.57
+193,Curitiba,Batel,-25.43075,-49.28153,Fibra,Residencial,49.3,36.4,1.33,Não,Baixa,9,Mensal,5.05,360.86
+194,Colombo,Portão,-25.27541,-49.19675,Alvenaria,Condomínio,27.6,15.0,1.85,Sim,Baixa,68,Semanal,10.59,560.04
+195,Curitiba,Cabral,-25.46826,-49.29411,Vinil,Residencial,32.6,16.0,2.42,Não,Média,12,Quinzenal,3.02,363.21
+196,Curitiba,Santa Felicidade,-25.45433,-49.32156,Fibra,Residencial,60.0,44.1,1.52,Não,Média,6,Semanal,4.68,494.46
+197,São José dos Pinhais,Santa Felicidade,-25.55964,-49.17378,Fibra,Academia,113.6,64.5,1.74,Não,Baixa,54,Mensal,13.45,790.69
+198,Colombo,Santa Felicidade,-25.33867,-49.17301,Alvenaria,Academia,90.2,58.9,1.85,Não,Alta,48,Mensal,12.48,819.82
+199,Curitiba,Jardim Social,-25.44197,-49.28141,Alvenaria,Residencial,32.1,16.9,1.62,Não,Alta,11,Mensal,4.77,346.5
+200,Curitiba,Jardim Social,-25.41341,-49.31204,Fibra,Residencial,104.3,74.1,1.66,Não,Média,17,Semanal,8.25,655.24
+201,Colombo,Batel,-25.2977,-49.23021,Alvenaria,Residencial,50.4,23.5,2.44,Sim,Média,15,Semanal,5.66,486.14
+202,Araucária,Batel,-25.58904,-49.41572,Vinil,Condomínio,103.4,49.1,1.9,Não,Baixa,72,Semanal,15.1,791.51
+203,São José dos Pinhais,Água Verde,-25.50822,-49.2098,Fibra,Academia,35.1,23.9,1.75,Sim,Alta,60,Semanal,11.3,636.92
+204,Curitiba,Cristo Rei,-25.40185,-49.29557,Fibra,Residencial,77.3,48.6,1.37,Não,Média,22,Semanal,7.29,527.01
+205,Curitiba,Santa Felicidade,-25.42978,-49.26171,Fibra,Condomínio,111.8,61.1,1.68,Não,Alta,52,Semanal,13.94,842.64
+206,Curitiba,Cristo Rei,-25.40133,-49.26281,Fibra,Residencial,36.9,19.0,2.35,Sim,Média,12,Mensal,2.83,243.55
+207,Curitiba,Cabral,-25.42656,-49.30319,Fibra,Residencial,85.6,50.4,1.58,Não,Média,10,Semanal,6.46,617.23
+208,Pinhais,Boqueirão,-25.46175,-49.17802,Fibra,Hotel,118.6,82.3,1.37,Sim,Média,64,Semanal,15.28,979.53
+209,Curitiba,Água Verde,-25.44029,-49.23225,Alvenaria,Residencial,24.9,17.9,1.26,Sim,Baixa,14,Mensal,2.86,285.45
+210,São José dos Pinhais,Portão,-25.55961,-49.20256,Fibra,Residencial,17.9,8.1,1.95,Sim,Alta,18,Quinzenal,4.83,373.14
+211,Pinhais,Batel,-25.46276,-49.19875,Vinil,Residencial,83.5,48.8,1.57,Não,Média,14,Mensal,7.16,496.48
+212,São José dos Pinhais,Boqueirão,-25.53716,-49.20884,Fibra,Condomínio,46.1,22.1,2.02,Sim,Média,68,Quinzenal,10.37,659.22
+213,Curitiba,Água Verde,-25.41233,-49.26099,Fibra,Hotel,16.0,9.2,1.87,Não,Alta,72,Mensal,10.93,563.3
+214,Colombo,Água Verde,-25.25758,-49.25861,Alvenaria,Hotel,61.2,28.7,1.98,Sim,Alta,104,Quinzenal,17.1,819.21
+215,Pinhais,Centro,-25.47264,-49.18871,Vinil,Residencial,92.4,67.0,1.17,Não,Alta,9,Quinzenal,8.12,578.29
+216,Pinhais,Bigorrilho,-25.43714,-49.19981,Fibra,Residencial,39.9,28.4,1.36,Não,Baixa,12,Quinzenal,3.06,348.94
+217,Curitiba,Jardim Social,-25.44921,-49.23634,Fibra,Condomínio,45.5,21.3,2.0,Não,Média,52,Quinzenal,9.49,580.07
+218,Curitiba,Santa Felicidade,-25.41891,-49.27678,Fibra,Residencial,102.7,47.7,2.21,Não,Alta,16,Semanal,9.11,664.09
+219,Araucária,Boqueirão,-25.59562,-49.37664,Alvenaria,Academia,66.2,41.8,1.44,Não,Média,72,Quinzenal,13.29,814.17
+220,Curitiba,Jardim Social,-25.46502,-49.29537,Fibra,Condomínio,102.4,63.2,1.35,Não,Baixa,48,Semanal,11.98,775.57

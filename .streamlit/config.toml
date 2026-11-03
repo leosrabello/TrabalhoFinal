@@ -1,0 +1,18 @@
+# Tema: as cores da água e dos azulejos de uma piscina.
+[theme]
+primaryColor = "#0a7ea4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f8fa"
+textColor = "#0f2a37"
+# Barlow lembra as placas e as marcações de profundidade da borda da piscina.
+# Sem internet, cai para a fonte padrão do sistema.
+font = "Barlow:https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&display=swap, sans-serif"
+headingFont = "Barlow Condensed:https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&display=swap, sans-serif"
+baseRadius = "6px"
+borderColor = "#e3e9ec"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[client]
+# Esconde o botão "Deploy" e o menu de desenvolvedor do topo.
+toolbarMode = "minimal"
