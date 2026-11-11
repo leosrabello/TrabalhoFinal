@@ -79,8 +79,11 @@ CSS = f"""
   .st-key-card_resultado .card-titulo {{ color: #ffffff; }}
   .st-key-card_resultado .passo {{ background: rgba(255, 255, 255, .15); color: #ffffff; }}
   .resultado {{ text-align: center; padding: 1.3rem 0 .4rem; }}
-  .resultado .valor {{ font-family: {CONDENSADA}; font-weight: 600; font-size: 3.6rem; line-height: 1; color: #ffffff; }}
+  .resultado .valor {{ font-family: {CONDENSADA}; font-weight: 600; font-size: clamp(2.2rem, 4.2vw, 3.6rem); line-height: 1; color: #ffffff; white-space: nowrap; }}
   .resultado .nota {{ color: #c7e4ee; font-size: .92rem; margin-top: .6rem; }}
+
+  /* métricas do modelo: mesmas marcações de profundidade, separadas por rejunte */
+  .st-key-card_metricas [data-testid="stColumn"] + [data-testid="stColumn"] {{ border-left: 1px solid {LINHA}; padding-left: 1.2rem; }}
 
   /* celular: menos margem no cabeçalho e o resumo em linhas, sem separadores */
   @media (max-width: 640px) {{
@@ -160,5 +163,5 @@ def card_titulo(texto, passo=None):
     numero = f'<span class="passo">{passo}</span>' if passo else ""
     return f'<div class="card-titulo">{numero}{texto}</div>'
 
-def resultado(valor="R$ —", nota="O modelo de ML será conectado aqui na Frente 3."):
+def resultado(valor="R$ —", nota="Preencha os dados e clique em Prever custo."):
     return f'<div class="resultado"><div class="valor">{valor}</div><div class="nota">{nota}</div></div>'
